@@ -23,7 +23,7 @@
 .logo{
     
     height: 50px;
-    background-image:url("download.png");
+    background-image:url("hero.jpeg");
     background-size: cover;
     width: 100%;
 }
@@ -141,7 +141,7 @@ border: none;
 }
 /* hero */
 .hero-section{
-    background-image:url("Untitled.png");
+    background-image:url("hero1.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
